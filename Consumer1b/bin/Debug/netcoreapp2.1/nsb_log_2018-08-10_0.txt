@@ -1,0 +1,59 @@
+﻿2018-08-10 22:24:28.299 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:24:28.866 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-01-22'.
+
+2018-08-10 22:24:28.870 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-08-10 22:24:28.882 WARN  NServiceBus.LicenseManager Opening browser to: https://particular.net/license/nservicebus?v=7.0.1&t=0&p=windows
+2018-08-10 22:24:47.995 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:24:48.567 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:28:39.534 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:28:40.099 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:29:19.282 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:29:19.826 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:31:25.808 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:31:26.490 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:37:16.972 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:37:17.618 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:37:34.869 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:37:35.483 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:39:19.876 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:39:20.431 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:40:03.519 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:40:04.165 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:40:30.118 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:40:30.651 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:40:48.798 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:40:49.299 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:41:19.064 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:41:19.555 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:49:58.894 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:49:59.603 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:50:23.126 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:50:23.625 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:51:01.100 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:51:01.719 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:52:31.758 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:52:32.321 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:52:53.138 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:52:53.674 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:53:42.704 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:53:43.251 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+
+2018-08-10 22:58:06.269 INFO  DefaultFactory Logging to 'h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\' with level Info
+2018-08-10 22:58:06.867 INFO  NServiceBus.LicenseManager Selected active license from h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
+

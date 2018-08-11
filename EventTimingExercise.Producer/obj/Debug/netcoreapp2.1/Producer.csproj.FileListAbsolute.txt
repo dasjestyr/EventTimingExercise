@@ -1,0 +1,15 @@
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\nsb_license.xml
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Producer.deps.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Producer.runtimeconfig.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Producer.runtimeconfig.dev.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Producer.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Producer.pdb
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Messaging.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\bin\Debug\netcoreapp2.1\Messaging.pdb
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.csprojAssemblyReference.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.csproj.CoreCompileInputs.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.AssemblyInfoInputs.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.AssemblyInfo.cs
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.csproj.CopyComplete
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\EventTimingExercise.Producer\obj\Debug\netcoreapp2.1\Producer.pdb

@@ -1,0 +1,9 @@
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.deps.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.csproj.CoreCompileInputs.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.AssemblyInfoInputs.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.AssemblyInfo.cs
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.csprojAssemblyReference.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.pdb
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.pdb

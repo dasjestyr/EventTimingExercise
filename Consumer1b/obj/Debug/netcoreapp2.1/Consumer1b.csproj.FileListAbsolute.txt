@@ -1,0 +1,14 @@
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Consumer1b.deps.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Consumer1b.runtimeconfig.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Consumer1b.runtimeconfig.dev.json
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Consumer1b.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Consumer1b.pdb
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Messaging.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\Messaging.pdb
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\obj\Debug\netcoreapp2.1\Consumer1b.csproj.CoreCompileInputs.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\obj\Debug\netcoreapp2.1\Consumer1b.AssemblyInfoInputs.cache
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\obj\Debug\netcoreapp2.1\Consumer1b.AssemblyInfo.cs
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\obj\Debug\netcoreapp2.1\Consumer1b.csproj.CopyComplete
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\obj\Debug\netcoreapp2.1\Consumer1b.dll
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\obj\Debug\netcoreapp2.1\Consumer1b.pdb
+h:\documents\visual studio 2017\Projects\EventTimingExercise\Consumer1b\bin\Debug\netcoreapp2.1\nsb_license.xml
