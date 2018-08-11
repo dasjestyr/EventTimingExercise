@@ -5756,11 +5756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "h:\\documents\\visual studio 2017\\Projects\\EventTimingExercise\\Consumer1b\\Consumer1b.csproj",
+      "projectUniqueName": "h:\\Documents\\visual studio 2017\\Projects\\EventTimingExercise\\Consumer1b\\Consumer1b.csproj",
       "projectName": "Consumer1b",
-      "projectPath": "h:\\documents\\visual studio 2017\\Projects\\EventTimingExercise\\Consumer1b\\Consumer1b.csproj",
+      "projectPath": "h:\\Documents\\visual studio 2017\\Projects\\EventTimingExercise\\Consumer1b\\Consumer1b.csproj",
       "packagesPath": "C:\\Users\\Jeremy Stafford\\.nuget\\packages\\",
-      "outputPath": "h:\\documents\\visual studio 2017\\Projects\\EventTimingExercise\\Consumer1b\\obj\\",
+      "outputPath": "h:\\Documents\\visual studio 2017\\Projects\\EventTimingExercise\\Consumer1b\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5782,8 +5782,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "h:\\documents\\visual studio 2017\\Projects\\EventTimingExercise\\Messaging\\Messaging.csproj": {
-              "projectPath": "h:\\documents\\visual studio 2017\\Projects\\EventTimingExercise\\Messaging\\Messaging.csproj"
+            "h:\\Documents\\visual studio 2017\\Projects\\EventTimingExercise\\Messaging\\Messaging.csproj": {
+              "projectPath": "h:\\Documents\\visual studio 2017\\Projects\\EventTimingExercise\\Messaging\\Messaging.csproj"
             }
           }
         }

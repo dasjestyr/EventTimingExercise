@@ -15,10 +15,4 @@
     <ProjectReference Include="..\Messaging\Messaging.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="nsb_license.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>

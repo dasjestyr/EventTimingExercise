@@ -20,7 +20,6 @@ namespace Producer
             var config = new EndpointConfiguration("Producer");
             config.EnableInstallers();
             config.UsePersistence<LearningPersistence>();
-            config.LicensePath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "nsb_license.xml"));
             var transport = config.UseTransport<RabbitMQTransport>()
                 .ConnectionString("host=rabbitmq;username=user;password=bitnami");
             transport.UseConventionalRoutingTopology(); // fanout
